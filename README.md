@@ -68,7 +68,7 @@ RequireJS is a JavaScript file and module loader. It is optimized for in-browser
 
 SnapShot:
 
-![Alt text](https://github.com/ikismail/Blog-CommentSection/blob/master/CommentFrontEnd/WebContent/img/commentSection.jpg)
+![Alt text](https://github.com/ramonaoldf/Blog-CommentSection/blob/master/CommentFrontEnd/WebContent/img/commentSection.jpg)
 
 
 
